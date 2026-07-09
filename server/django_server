@@ -1,0 +1,51 @@
+Script started on 2026-07-09 11:08:08-04:00 [TERM="xterm-color" TTY="/dev/pts/0" COLUMNS="75" LINES="15"]
+[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mpython3 manage.py runserver[merver[00m$ python3 manage.py runserver
+[?2004lWatching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 09, 2026 - 15:08:38
+Django version 5.2.16, using settings 'djangoproj.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
+[33;1mWARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/[0m
+¸ ^C[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mcat django_server[merver[00m$ cat django_server
+[?2004l[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mserver/frontend/static/About.html[merver[00m$ server/frontend/static/About.html
+[?2004lbash: server/frontend/static/About.html: No such file or directory
+[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mls frontend/static/About.html[merver[00m$ ls frontend/static/About.html
+[?2004lfrontend/static/About.html
+[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [K[A]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [K[A]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mpython3 manage.py runserver[merver[00m$ python3 manage.py runserver
+[?2004lWatching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 09, 2026 - 15:38:27
+Django version 5.2.16, using settings 'djangoproj.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
+[33;1mWARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/[0m
+[09/Jul/2026 15:39:34] [m"GET / HTTP/1.1" 200 2679[0m
+[09/Jul/2026 15:39:35] [m"GET /static/style.css HTTP/1.1" 200 1918[0m
+[09/Jul/2026 15:39:35] [m"GET /static/bootstrap.min.css HTTP/1.1" 200 155800[0m
+[09/Jul/2026 15:39:35] [m"GET /static/car_dealership.jpg HTTP/1.1" 200 263696[0m
+[09/Jul/2026 15:41:55] [32m"GET /about HTTP/1.1" 301 0[0m
+[09/Jul/2026 15:41:55] [m"GET /about/ HTTP/1.1" 200 3383[0m
+git status          ^C[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mgit status[mgit status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
