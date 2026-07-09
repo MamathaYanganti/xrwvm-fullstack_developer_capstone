@@ -48,4 +48,63 @@ Your branch is up to date with 'origin/main'.
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   djangoproj/settings.py[m
+	[31mmodified:   djangoproj/urls.py[m
+	[31mmodified:   frontend/static/About.html[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mdjango_server[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mgit add .[mgit add .
+[?2004l[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mgit commit -m "Add About Us page"[merver[00m$ git commit -m "Add About Us page"
+[?2004lAuthor identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'theia@theia-yangantimama.(none)')
+[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mgit config --global user.name "MamathaYanganti"[merver[00m$ git config --global user.name "MamathaYanganti"
+[?2004l[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mgit commit -m "Add About Us page"[merver[00m$ git commit -m "Add About Us page"
+[?2004lAuthor identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'theia@theia-yangantimama.(none)')
+[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mgit config --global user.name "MamathaYanganti"[merver[00m$ git config --global user.name "MamathaYanganti"
+[?2004l[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mgit config --global user.email "mamatha.sccv@gmail.com"[merver[00m$ git config --global user.email "mamatha.sccv@gmail.com"
+[?2004l[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mgit commit -m "Add About Us page"[merver[00m$ git commit -m "Add About Us page"
+[?2004l[main 1a357c7] Add About Us page
+ 4 files changed, 125 insertions(+), 46 deletions(-)
+ create mode 100644 server/django_server
+[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/xrwvm-fullstack_developer_capstone/s
+erver[00m$ [7mgit push[mgit push
+[?2004lUsername for 'https://github.com': Mamathay Yanganti
+Password for 'https://MamathaYanganti@github.com': 
+remote: Permission to ibm-developer-skills-network/xrwvm-fullstack_developer_capstone.git denied to MamathaYanganti.
+fatal: unable to access 'https://github.com/ibm-developer-skills-network/xrwvm-fullstack_developer_capstone/': The requested URL returned error: 403
+[?2004h]0;theia@theia-yangantimama: /home/project/xrwvm-fullstack_developer_capstone/server[01;32mtheia@theia-yangantimama[00m:[01;34m/home/project/x
